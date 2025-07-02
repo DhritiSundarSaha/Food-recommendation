@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers
+faiss-cpu
+hdbscan
+streamlit
+numpy
+pandas
+Pillowgit 
+faiss-cpu
+faiss-gpu
