@@ -1,5 +1,6 @@
-******dish-recommendation/******
-│
+## 📁 Folder Structure
+**dish-recommendation/**
+```
 ├── data/
 │   ├── images/
 │   ├── dish_tags.csv
@@ -17,3 +18,4 @@
 ├── recommender.py
 ├── requirements.txt
 ├── README.md
+```
